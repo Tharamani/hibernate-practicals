@@ -10,7 +10,7 @@ import org.hibernate.cfg.Configuration;
 import com.hibernatetutorial.entity.Student;
 
 /**
- * @author Thara
+ * @author Tharamani
  *@creation date & time: 23 Nov 2020 7:00:32 pm
  */
 public class CreateStudentDemo {
